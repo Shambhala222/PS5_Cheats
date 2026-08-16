@@ -1,10 +1,10 @@
-# PS5 etaHEN Cheats
+# PS5 Cheats
 
-MC4 trainers for jailbroken PS5 (etaHEN / CheatRunner).
+MC4 trainers for jailbroken PS5 (CheatRunner). Also works with etaHEN.
 
 ## How to use
 
-1. Put the `.mc4` file into `/data/etaHEN/cheats/mc4` (or CheatRunner: `/data/cheatrunner/cheats/mc4`).
+1. Put the `.mc4` into `/data/etaHEN/cheats/mc4` or `/data/cheatrunner/cheats/mc4`.
 2. On the PS5: **Cheats → Cache And Reload Cheats List**.
 
 ## Files
