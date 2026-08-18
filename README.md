@@ -11,4 +11,5 @@ MC4 trainers for jailbroken PS5 (CheatRunner). Also works with etaHEN.
 
 | Game | Title ID | Version | File |
 |---|---|---|---|
+| Dead Island 2 | PPSA03098 | 01.000.011 | [mc4/PPSA03098_01.000.011.mc4](mc4/PPSA03098_01.000.011.mc4) |
 | Lords of the Fallen (EU) | PPSA03641 | 01.086.000 | [mc4/PPSA03641_01.086.000.mc4](mc4/PPSA03641_01.086.000.mc4) |
